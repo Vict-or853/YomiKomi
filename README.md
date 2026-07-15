@@ -119,19 +119,8 @@ No adjuntes libros, mangas, cómics ni imágenes protegidas por derechos de auto
 - Consulta [SECURITY.md](SECURITY.md) para informar una vulnerabilidad de forma responsable.
 - El historial público de cambios se encuentra en [CHANGELOG.md](CHANGELOG.md).
 
-```
-
-No se incluyen módulos internos, scripts de compilación, dependencias privadas ni código fuente de la aplicación.
-
-## Licencia y marcas
-
-La aplicación y los materiales de este repositorio están protegidos por derechos de autor. Consulta [LICENSE.md](LICENSE.md) y [EULA.md](EULA.md).
-
-Kindle y Amazon son marcas de sus respectivos titulares. Kobo y Rakuten Kobo son marcas de sus respectivos titulares. YomiKomi no está afiliado, patrocinado ni respaldado por esas empresas.
-
----
 
 <div align="center">
   <strong>YomiKomi Tana</strong><br>
-  Creado por Víctor García · Victo Dev
+  Creado por Víctor García · Vict_or853
 </div>
