@@ -119,18 +119,6 @@ No adjuntes libros, mangas, cómics ni imágenes protegidas por derechos de auto
 - Consulta [SECURITY.md](SECURITY.md) para informar una vulnerabilidad de forma responsable.
 - El historial público de cambios se encuentra en [CHANGELOG.md](CHANGELOG.md).
 
-## Contenido del repositorio
-
-```text
-.
-├── .github/          Plantillas de incidencias
-├── assets/           Logotipo y capturas públicas
-├── docs/             Sitio estático para GitHub Pages
-├── README.md         Presentación del proyecto
-├── CHANGELOG.md      Cambios publicados
-├── PRIVACY.md        Información de privacidad
-├── SECURITY.md       Política de seguridad
-└── SUPPORT.md        Canales y datos de soporte
 ```
 
 No se incluyen módulos internos, scripts de compilación, dependencias privadas ni código fuente de la aplicación.
